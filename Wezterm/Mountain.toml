@@ -4,7 +4,7 @@
 foreground = "#f0f0f0"
 background = "#0f0f0f"
 cursor_bg = "#f0f0f0"
-cursor_fg = "#f0f0f0"
+cursor_fg = "#0f0f0f"
 cursor_border = "#262626"
 split = "#4c4c4c"
 
